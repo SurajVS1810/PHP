@@ -13,6 +13,6 @@ Gender:
   DOB:<input type="date" name="date"><br>
 <input type="submit">
 </form>
-//huifhi/
+html
 </body>
 </html>
